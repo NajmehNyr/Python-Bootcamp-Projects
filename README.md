@@ -29,6 +29,7 @@ This is an ongoing repository of Python bootcamp projects showcasing my progress
 - [Pong Game](./Intermediate/Pong%20Game) - Two-player Pong game
 - [Turtle Crossing Game](./Intermediate/Turtle%20Crossing%20Game) - Frogger-style crossing game
 - [Mile to Km Converter](./Intermediate/Mile%20to%20Km%20Converter) - Unit conversion utility application
+- [Password App](./Intermediate/Password%20App) - App for storing and saving passwords
 - [Flashcard App](./Intermediate/Flashcard%20App) - Study tool with flashcard functionality
 
 ## Note
